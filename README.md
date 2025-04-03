@@ -1,5 +1,6 @@
 # montanhaclustering
 análise de dados
+https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset
 
 ## Descrição do dataset: sono saudável e estilo de vida ##
 O Dataset sono saudável e estilo de vida compreende 400 linhas e 13 colunas, cobrindo uma ampla gama de variáveis ​​relacionadas ao sono e hábitos diários. Ele inclui detalhes como gênero, idade, ocupação, duração do sono, qualidade do sono, nível de atividade física, níveis de estresse, categoria de IMC, pressão arterial, frequência cardíaca, passos diários e a presença ou ausência de distúrbios do sono.
